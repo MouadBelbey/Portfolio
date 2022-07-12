@@ -18,9 +18,9 @@ function Footer() {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><BsFacebook className='footer__socials-icon'/></a>
-        <a href="https://instagram.com"><BsInstagram className='footer__socials-icon'/></a>
-        <a href="https://linkedin.com"><BsLinkedin className='footer__socials-icon'/></a>
+        <a href="https://www.facebook.com/profile.php?id=100007461404885" target="_blank"><BsFacebook className='footer__socials-icon'/></a>
+        <a href="https://www.instagram.com/belbeymouad/?hl=fr" target="_blank"><BsInstagram className='footer__socials-icon'/></a>
+        <a href="https://www.linkedin.com/in/mouad-belbey-8070a0235/" target="_blank"><BsLinkedin className='footer__socials-icon'/></a>
       </div>
 
       <div className="footer__copyright">
