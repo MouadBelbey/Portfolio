@@ -20,14 +20,14 @@ function Contact() {
           <article className="contact__option">
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
-            <h5>mouadMessenger</h5>
+            <h5>Mouad's Messenger</h5>
             <a href="https://m.me/mouad.belbey" target='_blank'>Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+1 438-926-9908</h5>
-            <a href="https://api.whatsapp.com/send?phone=4389269908" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=+14389269908" target='_blank'>Send a message</a>
           </article>
         </div>
     </section>
