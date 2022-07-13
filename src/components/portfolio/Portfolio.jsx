@@ -100,7 +100,7 @@ function Portfolio() {
         {
           data.map(({id, image, title, github, demo}) => {
             return (
-              <article key={id} className="portfolio__item">
+          <article key={id} className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={image} alt={title} />
           </div>
@@ -108,7 +108,7 @@ function Portfolio() {
           <div className="portfolio__item-cta">
             <a href={github} className='btn btn-primary' target='_blank'>Github</a>
           </div>
-        </article>
+          </article>
             )
           })
         }
