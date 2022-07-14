@@ -10,6 +10,7 @@ import IMG7 from '../../assets/portfolio7.jpg'
 import IMG8 from '../../assets/portfolio8.jpg'
 import IMG9 from '../../assets/portfolio9.jpg'
 import IMG10 from '../../assets/portfolio10.jpg'
+import IMG11 from '../../assets/portfolio11.jpg'
 
 import {  Navigation, Pagination } from 'swiper';
 
@@ -82,6 +83,12 @@ const data = [
     image: IMG10,
     title: 'TinDog',
     github: 'https://github.com/MouadBelbey/TinDog.git'
+  },
+  {
+    id: 11,
+    image: IMG11,
+    title: 'Maison Beya',
+    github: 'https://github.com/MouadBelbey/maisonBeya.git'
   }
 ]
 
