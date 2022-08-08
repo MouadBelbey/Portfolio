@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.33b2f589.css",
+    "main.css": "/Portfolio/static/css/main.b8b23a76.css",
     "main.js": "/Portfolio/static/js/main.dca98b1e.js",
     "static/media/Mouad__Belbey1.jpg": "/Portfolio/static/media/Mouad__Belbey1.930b2446cc328b6caa38.jpg",
     "static/media/portfolio11.jpg": "/Portfolio/static/media/portfolio11.8a61855111179530e772.jpg",
@@ -17,11 +17,11 @@
     "static/media/portfolio8.jpg": "/Portfolio/static/media/portfolio8.f27f7e33d848ef8fb7ea.jpg",
     "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.8852ec17283abda5604c.png",
     "index.html": "/Portfolio/index.html",
-    "main.33b2f589.css.map": "/Portfolio/static/css/main.33b2f589.css.map",
+    "main.b8b23a76.css.map": "/Portfolio/static/css/main.b8b23a76.css.map",
     "main.dca98b1e.js.map": "/Portfolio/static/js/main.dca98b1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.33b2f589.css",
+    "static/css/main.b8b23a76.css",
     "static/js/main.dca98b1e.js"
   ]
 }
