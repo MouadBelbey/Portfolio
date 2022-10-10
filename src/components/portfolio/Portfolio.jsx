@@ -12,17 +12,6 @@ import IMG9 from '../../assets/portfolio9.jpg'
 import IMG10 from '../../assets/portfolio10.jpg'
 import IMG11 from '../../assets/portfolio11.jpg'
 
-import {  Navigation, Pagination } from 'swiper';
-
-import { Swiper, SwiperSlide } from 'swiper/react';
-
-// Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-
-// DO NOT USE IN PRODUCTION
-
 const data = [
   {
     id: 1,
@@ -98,12 +87,7 @@ function Portfolio() {
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
 
-      <div className="container portfolio__container"
-      // install Swiper modules
-      modules={[ Pagination ]}
-      spaceBetween={40}
-      slidesPerView={1}
-      pagination={{ clickable: true }}>
+      <div className="container portfolio__container">
         {
           data.map(({id, image, title, github, demo}) => {
             return (
