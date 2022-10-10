@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.531ff354.css",
-    "main.js": "/Portfolio/static/js/main.9a845643.js",
+    "main.css": "/Portfolio/static/css/main.25c369e0.css",
+    "main.js": "/Portfolio/static/js/main.8f269803.js",
     "static/media/Mouad__Belbey1.jpg": "/Portfolio/static/media/Mouad__Belbey1.930b2446cc328b6caa38.jpg",
     "static/media/portfolio11.jpg": "/Portfolio/static/media/portfolio11.8a61855111179530e772.jpg",
     "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.938996b46e32a3f2fee8.jpg",
@@ -17,11 +17,11 @@
     "static/media/portfolio8.jpg": "/Portfolio/static/media/portfolio8.f27f7e33d848ef8fb7ea.jpg",
     "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.8852ec17283abda5604c.png",
     "index.html": "/Portfolio/index.html",
-    "main.531ff354.css.map": "/Portfolio/static/css/main.531ff354.css.map",
-    "main.9a845643.js.map": "/Portfolio/static/js/main.9a845643.js.map"
+    "main.25c369e0.css.map": "/Portfolio/static/css/main.25c369e0.css.map",
+    "main.8f269803.js.map": "/Portfolio/static/js/main.8f269803.js.map"
   },
   "entrypoints": [
-    "static/css/main.531ff354.css",
-    "static/js/main.9a845643.js"
+    "static/css/main.25c369e0.css",
+    "static/js/main.8f269803.js"
   ]
 }
