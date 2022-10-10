@@ -16,49 +16,42 @@ function Experience() {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Bootstrap</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>JQuery</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Webflow</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
@@ -73,49 +66,42 @@ function Experience() {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Node JS</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Express.js</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>MongoDB</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Mongoose</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>PostgreSQL</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Java</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Python</h4>
-                <small className='text-light'>Begginer</small>
               </div>
             </article>
           </div>
