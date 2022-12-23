@@ -1,27 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.25c369e0.css",
-    "main.js": "/Portfolio/static/js/main.98c47f9e.js",
+    "main.css": "/Portfolio/static/css/main.dba25954.css",
+    "main.js": "/Portfolio/static/js/main.8cf215f4.js",
     "static/media/Mouad__Belbey1.jpg": "/Portfolio/static/media/Mouad__Belbey1.930b2446cc328b6caa38.jpg",
     "static/media/portfolio11.jpg": "/Portfolio/static/media/portfolio11.8a61855111179530e772.jpg",
     "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.938996b46e32a3f2fee8.jpg",
     "static/media/Certificat.pdf": "/Portfolio/static/media/Certificat.295c51b81d806108d3c2.pdf",
     "static/media/portfolio10.jpg": "/Portfolio/static/media/portfolio10.b471add827f922664334.jpg",
     "static/media/portfolio7.jpg": "/Portfolio/static/media/portfolio7.07f1ab2977c8a8ab15ed.jpg",
-    "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.3ec4a6e08026bf3f46c8.jpg",
-    "static/media/portfolio2.jpg": "/Portfolio/static/media/portfolio2.ee486103c9fce8f570f1.jpg",
-    "static/media/portfolio9.jpg": "/Portfolio/static/media/portfolio9.39116a24e853bc86eb0c.jpg",
+    "static/media/Mouad_Belbey_curriculum_Vitae.pdf": "/Portfolio/static/media/Mouad_Belbey_curriculum_Vitae.32ae62fd983f7e89edd3.pdf",
     "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.224df1abae2eea7a61f6.jpg",
-    "static/media/Mouad_Belbey_curriculum_Vitae.pdf": "/Portfolio/static/media/Mouad_Belbey_curriculum_Vitae.ff4e9308b84356d43b9a.pdf",
-    "static/media/portfolio1.jpg": "/Portfolio/static/media/portfolio1.7c677cee9e9bb15ebedb.jpg",
     "static/media/portfolio8.jpg": "/Portfolio/static/media/portfolio8.f27f7e33d848ef8fb7ea.jpg",
-    "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.8852ec17283abda5604c.png",
     "index.html": "/Portfolio/index.html",
-    "main.25c369e0.css.map": "/Portfolio/static/css/main.25c369e0.css.map",
-    "main.98c47f9e.js.map": "/Portfolio/static/js/main.98c47f9e.js.map"
+    "main.dba25954.css.map": "/Portfolio/static/css/main.dba25954.css.map",
+    "main.8cf215f4.js.map": "/Portfolio/static/js/main.8cf215f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.25c369e0.css",
-    "static/js/main.98c47f9e.js"
+    "static/css/main.dba25954.css",
+    "static/js/main.8cf215f4.js"
   ]
 }
