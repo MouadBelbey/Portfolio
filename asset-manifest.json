@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.dba25954.css",
-    "main.js": "/Portfolio/static/js/main.18e59085.js",
+    "main.js": "/Portfolio/static/js/main.4eb0e03a.js",
     "static/media/Mouad__Belbey1.jpg": "/Portfolio/static/media/Mouad__Belbey1.930b2446cc328b6caa38.jpg",
     "static/media/portfolio11.jpg": "/Portfolio/static/media/portfolio11.8a61855111179530e772.jpg",
     "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.938996b46e32a3f2fee8.jpg",
     "static/media/Certificat.pdf": "/Portfolio/static/media/Certificat.295c51b81d806108d3c2.pdf",
     "static/media/portfolio10.jpg": "/Portfolio/static/media/portfolio10.b471add827f922664334.jpg",
     "static/media/portfolio7.jpg": "/Portfolio/static/media/portfolio7.07f1ab2977c8a8ab15ed.jpg",
-    "static/media/Mouad_Belbey_curriculum_Vitae.pdf": "/Portfolio/static/media/Mouad_Belbey_curriculum_Vitae.5d73fe2e3146d4101ec8.pdf",
     "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.224df1abae2eea7a61f6.jpg",
     "static/media/portfolio8.jpg": "/Portfolio/static/media/portfolio8.f27f7e33d848ef8fb7ea.jpg",
+    "static/media/Mouad_Belbey_curriculum_Vitae_Can.pdf": "/Portfolio/static/media/Mouad_Belbey_curriculum_Vitae_Can.9c41c5328de2038d2523.pdf",
     "index.html": "/Portfolio/index.html",
     "main.dba25954.css.map": "/Portfolio/static/css/main.dba25954.css.map",
-    "main.18e59085.js.map": "/Portfolio/static/js/main.18e59085.js.map"
+    "main.4eb0e03a.js.map": "/Portfolio/static/js/main.4eb0e03a.js.map"
   },
   "entrypoints": [
     "static/css/main.dba25954.css",
-    "static/js/main.18e59085.js"
+    "static/js/main.4eb0e03a.js"
   ]
 }
