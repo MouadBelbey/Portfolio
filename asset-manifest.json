@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c9ed81d6.css",
-    "main.js": "/Portfolio/static/js/main.ba141889.js",
+    "main.js": "/Portfolio/static/js/main.852a793d.js",
     "static/media/Mouad__Belbey1.jpg": "/Portfolio/static/media/Mouad__Belbey1.930b2446cc328b6caa38.jpg",
     "static/media/portfolio11.jpg": "/Portfolio/static/media/portfolio11.8a61855111179530e772.jpg",
     "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.938996b46e32a3f2fee8.jpg",
@@ -15,13 +15,13 @@
     "static/media/portfolio1.jpg": "/Portfolio/static/media/portfolio1.7c677cee9e9bb15ebedb.jpg",
     "static/media/portfolio8.jpg": "/Portfolio/static/media/portfolio8.f27f7e33d848ef8fb7ea.jpg",
     "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.8852ec17283abda5604c.png",
-    "static/media/Mouad_Belbey_curriculum_Vitae_Can.pdf": "/Portfolio/static/media/Mouad_Belbey_curriculum_Vitae_Can.45a3653b9b2fbb1f6848.pdf",
+    "static/media/Mouad_Belbey_curriculum_Vitae_Can.pdf": "/Portfolio/static/media/Mouad_Belbey_curriculum_Vitae_Can.5b6a4241c9d33976022d.pdf",
     "index.html": "/Portfolio/index.html",
     "main.c9ed81d6.css.map": "/Portfolio/static/css/main.c9ed81d6.css.map",
-    "main.ba141889.js.map": "/Portfolio/static/js/main.ba141889.js.map"
+    "main.852a793d.js.map": "/Portfolio/static/js/main.852a793d.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ed81d6.css",
-    "static/js/main.ba141889.js"
+    "static/js/main.852a793d.js"
   ]
 }
