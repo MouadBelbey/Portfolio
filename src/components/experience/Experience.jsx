@@ -54,6 +54,12 @@ function Experience() {
                 <h4>Webflow</h4>
               </div>
             </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Wordpress</h4>
+              </div>
+            </article>
           </div>
         </div>
 
@@ -102,6 +108,18 @@ function Experience() {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Python</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>C#</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>.NET</h4>
               </div>
             </article>
           </div>
