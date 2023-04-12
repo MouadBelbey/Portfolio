@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c9ed81d6.css",
-    "main.js": "/Portfolio/static/js/main.852a793d.js",
+    "main.js": "/Portfolio/static/js/main.d7814db3.js",
     "static/media/Mouad__Belbey1.jpg": "/Portfolio/static/media/Mouad__Belbey1.930b2446cc328b6caa38.jpg",
     "static/media/portfolio11.jpg": "/Portfolio/static/media/portfolio11.8a61855111179530e772.jpg",
     "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.938996b46e32a3f2fee8.jpg",
@@ -18,10 +18,10 @@
     "static/media/Mouad_Belbey_curriculum_Vitae_Can.pdf": "/Portfolio/static/media/Mouad_Belbey_curriculum_Vitae_Can.5b6a4241c9d33976022d.pdf",
     "index.html": "/Portfolio/index.html",
     "main.c9ed81d6.css.map": "/Portfolio/static/css/main.c9ed81d6.css.map",
-    "main.852a793d.js.map": "/Portfolio/static/js/main.852a793d.js.map"
+    "main.d7814db3.js.map": "/Portfolio/static/js/main.d7814db3.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ed81d6.css",
-    "static/js/main.852a793d.js"
+    "static/js/main.d7814db3.js"
   ]
 }
