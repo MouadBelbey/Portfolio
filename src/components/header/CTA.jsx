@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/Mouad_Belbey_curriculum_Vitae_Can.pdf'
+import CV from '../../assets/Mouad_Belbey_Curriculum_Vitae_2023.pdf'
 import Certificat from '../../assets/Certificat.pdf'
 
 function CTA() {
