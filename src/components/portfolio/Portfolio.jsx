@@ -12,6 +12,7 @@ import IMG9 from '../../assets/portfolio9.jpg'
 import IMG10 from '../../assets/portfolio10.jpg'
 import IMG11 from '../../assets/portfolio11.jpg'
 import IMG12 from '../../assets/portfolio12.jpg'
+import IMG13 from '../../assets/portfolio13.jpg'
 
 const data = [
   {
@@ -76,6 +77,13 @@ const data = [
     title: 'Pizza Mama',
     github: 'https://github.com/MouadBelbey/pizza_mama.git',
     website: 'https://pizzapapa.azurewebsites.net/'
+  },
+  {
+    id: 13,
+    image: IMG13,
+    title: 'Bin 2 dec',
+    github: 'https://github.com/MouadBelbey/Bin2Dec',
+    website: ' https://mouadbelbey.github.io/Bin2Dec/'
   }
 ]
 
