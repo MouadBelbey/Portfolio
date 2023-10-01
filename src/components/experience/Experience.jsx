@@ -107,12 +107,6 @@ function Experience() {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Python</h4>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className='experience__details-icon'/>
-              <div>
                 <h4>C#</h4>
               </div>
             </article>
